@@ -1,0 +1,9 @@
+name = "narasi-pantai-sbd-api"
+main = "worker.js"
+compatibility_date = "2026-01-01"
+
+[vars]
+ALLOWED_ORIGIN = "https://yandresalao-cpu.github.io"
+OPENAI_MODEL = "gpt-4.1-mini"
+
+# OPENAI_API_KEY dan ACCESS_TOKEN harus disimpan sebagai Secrets, bukan di sini.

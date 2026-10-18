@@ -1,0 +1,1 @@
+{"name":"narasi-pantai-sbd","private":true,"type":"module","scripts":{"test":"node --test tests/core.test.mjs","deploy:api":"wrangler deploy --config backend/wrangler.toml"},"devDependencies":{"wrangler":"^4.0.0"}}
